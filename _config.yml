@@ -1,8 +1,8 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: Scratcher Meetup Kansai
+author: Scratcher Meetup Kansai実行委員会
+description: "Scratcher Meetup Kansai"
 permalink: /:title/
-lang: "en"
+lang: "ja"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
@@ -20,8 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Github, icon: github, url: "https://github.com/scratcher-meetup/scratcher-meetup.github.io/"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:

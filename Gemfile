@@ -1,8 +1,12 @@
 source "https://rubygems.org"
-
-gem "jekyll", "~> 4.2.0"
-gem "webrick", "~> 1.7"
-
+gemspec
+gem "jekyll", "~> 4.0.0"
+gem "webrick", "~> 1.8"
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+    gem "jekyll-sitemap"
+    gem "bourbon"
+    gem "jekyll-paginate"
 end
+gem 'html-proofer'
+gem 'tzinfo'
+gem 'tzinfo-data'

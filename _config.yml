@@ -3,7 +3,7 @@ title: Scratcher Meetup Kansai
 description: "Scratchが好きな子どものための交流イベント"
 url           : "https://scratcher-meetup.github.io" # site url
 baseurl       : "/" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "/assets/images/OGP/sample_ogp_picture.png" # image uri like logo/cover image for site seo
+cover         : "/assets/images/OGP/default.png" # image uri like logo/cover image for site seo
 
 google_analytics  : G-QT63BYLJV6
 twitter_username  : ""

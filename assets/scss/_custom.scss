@@ -4,3 +4,28 @@
 body {
   line-height: 1.85rem;
 }
+
+table {
+  border-collapse: collapse;
+  font-feature-settings: "kern", "liga", "tnum";
+  margin: $small-spacing 0;
+  table-layout: inherit;
+  width: 100%;
+  max-width: 800px;
+  tbody tr:nth-child(even) td {
+    background-color: #eeeeee;
+  }
+  td {
+    padding: $small-spacing;
+    width: auto;
+  }
+}
+
+h1 {
+  color: #4472C6;
+}
+
+h2 {
+  margin-top: 4rem;
+  color: #4472C6;
+}

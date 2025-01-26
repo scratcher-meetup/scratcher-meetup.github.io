@@ -1,5 +1,5 @@
 # Site settings
-title: Scratcher Meetup Kansai
+title: Scratcher Meetup
 description: "Scratchが好きな子どものための交流イベント"
 url           : "https://scratcher-meetup.github.io" # site url
 baseurl       : "/" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank

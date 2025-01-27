@@ -37,6 +37,6 @@ Scratchが大好きなみんなが集まる「**Scratcher Meetup**」を開催�
 |16:30 - 17:00|後片付け・解散|
 
 ## 参加申し込み
-参加される方は、[申し込みフォーム（Googleフォームが開きます](https://forms.gle/F72CDYkSsRBNgzNQ9)からエントリーをお願いします！
+参加される方は、[申し込みフォーム（Googleフォームが開きます）](https://forms.gle/F72CDYkSsRBNgzNQ9)からエントリーをお願いします！
 
 ![](/assets/images/OGP/default.png)

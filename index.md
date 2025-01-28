@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scrather Meetup Osaka 2025へようこそ！
+title: Scratcher Meetup Osaka 2025へようこそ！
 permalinl: /
 ---
 

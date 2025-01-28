@@ -3,6 +3,9 @@ layout: page
 title: Scrather Meetup Osaka 2025へようこそ！
 permalinl: /
 ---
+
+![](/assets/images/OGP/scrather-meetup.OGP.png){}
+
 Scratchが大好きなみんなが集まる「**Scratcher Meetup**」を開催します！
 このイベントは、Scratchで作ったプロジェクトの発表や展示をを通じて新しい仲間とつながることができる場です。Scratchが初めての人も、プロのScratcherも大歓迎！
 
@@ -39,4 +42,3 @@ Scratchが大好きなみんなが集まる「**Scratcher Meetup**」を開催�
 ## 参加申し込み
 参加される方は、[申し込みフォーム（Googleフォームが開きます）](https://forms.gle/F72CDYkSsRBNgzNQ9)からエントリーをお願いします！
 
-![](/assets/images/OGP/scrather-meetup.OGP.png)

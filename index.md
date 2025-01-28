@@ -4,7 +4,7 @@ title: Scratcher Meetup Osaka 2025へようこそ！
 permalinl: /
 ---
 
-![](/assets/images/OGP/scrather-meetup.OGP.png){}
+![](/assets/images/OGP/scratcher-meetup.OGP.png){}
 
 Scratchが大好きなみんなが集まる「**Scratcher Meetup**」を開催します！
 このイベントは、Scratchで作ったプロジェクトの発表や展示をを通じて新しい仲間とつながることができる場です。Scratchが初めての人も、プロのScratcherも大歓迎！

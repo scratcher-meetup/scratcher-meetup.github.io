@@ -23,7 +23,7 @@ Scratchが大好きなみんなが集まる「**Scratcher Meetup**」を開催�
 - 日時：2025年3月1日（土）13:00〜17:00
 - 場所：[gusuku Ashibinaa OSAKA](https://www.r3it.com/ashibinaa){:target="_blank"} グランフロント大阪 タワーC 16階 アールスリーインスティテュート  （[Google Mapsはこちら](https://maps.app.goo.gl/qqJU97Qbc9vydik99){:target="_blank"}）
 - 参加費: 無料
-- 対象: 小学生から中高生、そして大人のScratcherも大歓迎！
+- 対象: 全年齢の子ども（Children Of All Ages）が対象です（未就学児、小学生から中高生、そして大人のScratcherも大歓迎！）
 
 ## タイムテーブル
 以下の内容で予定しています（タイムテーブルは変更となる場合があります）。

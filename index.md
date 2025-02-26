@@ -21,7 +21,7 @@ Scratchが大好きなみんなが集まる「**Scratcher Meetup**」を開催�
 [Scratch](https://scratch.mit.edu/){:target="_blank"}はもちろん、[Stretch3](https://stretch3.github.io/){:target="_blank"}、[Xcratch](https://xcratch.github.io/index-ja.html){:target="_blank"}などScratchを拡張して作られたプログラミングツールも大歓迎です！
 ## 開催概要
 - 日時：2025年3月1日（土）13:00〜17:00
-- 場所：[gusuku Ashibinaa OSAKA](https://www.r3it.com/ashibinaa){:target="_blank"} グランフロント大阪 タワーC 16階 アールスリーインスティテュート  （[Google Mapsはこちら](https://maps.app.goo.gl/qqJU97Qbc9vydik99){:target="_blank"}）
+- 場所：[gusuku Ashibinaa OSAKA](https://www.r3it.com/ashibinaa){:target="_blank"} グランフロント大阪 タワーC 16階 アールスリーインスティテュート（会場への行き方はこのページの一番下をご覧ください）  （[Google Mapsはこちら](https://maps.app.goo.gl/qqJU97Qbc9vydik99){:target="_blank"}）
 - 参加費: 無料
 - 対象: 全年齢の子ども（Children Of All Ages）が対象です（未就学児、小学生から大人のScratcherも大歓迎！）
 

@@ -54,3 +54,6 @@ Scratchが大好きなみんなが集まる「**Scratcher Meetup**」を開催�
 7. 16階に着いたら、エレベータを降りて左側に進み突き当たりをさらに左に曲がります。そのまままっすぐいくと右手に会場に入るドアがありますので、そこを入ってください。
 
 （[Google Mapsはこちら](https://maps.app.goo.gl/qqJU97Qbc9vydik99){:target="_blank"}）
+
+会場は会社のオフィスの一部をお借りします。こんな感じのスペースです。
+![](/assets/images/ashibinaa.jpg)

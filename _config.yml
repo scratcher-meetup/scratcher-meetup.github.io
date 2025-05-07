@@ -1,5 +1,5 @@
 # Site settings
-title: Scratcher Meetup
+title: Scratcher Meetup / Scratch Day
 description: "Scratchが好きな子どものための交流イベント"
 url           : "https://scratcher-meetup.github.io" # site url
 baseurl       : "/" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
@@ -18,6 +18,8 @@ highlighter : rouge
 
 source      : ./
 destination : ./_site
+include:
+  - _pages
 
 # Sass configuration
 sass:

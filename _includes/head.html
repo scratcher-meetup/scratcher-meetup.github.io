@@ -8,7 +8,7 @@
   {% include favicon.html %}
 
   {% assign page_title = '' %}
-  {% if page.title == "Home" %}
+  {% if page.layout == "home" %}
     {% if site.description == "" %}
       {% capture page_title %}
         {{ site.title }}

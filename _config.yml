@@ -1,6 +1,6 @@
 # Site settings
-title: Scratcher Meetup / Scratch Day
-description: "Scratchが好きな子どものための交流イベント"
+title: Scratch Day / Scratcher Meetup
+description: "Scratchが好きな子どもや大人のための交流イベント"
 url           : "https://scratcher-meetup.github.io" # site url
 baseurl       : "/" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "/assets/images/OGP/default.png" # image uri like logo/cover image for site seo

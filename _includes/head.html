@@ -9,7 +9,7 @@
 
   {% assign page_title = '' %}
   {% if page.layout == "home" %}
-    {% if site.description == "" %}
+    {% if site.description == nil or site.description == "" %}
       {% capture page_title %}
         {{ site.title }}
       {% endcapture %}
@@ -20,13 +20,18 @@
     {% endif %}
     {%if paginator and paginator.page != 1 %} - {{ paginator.page }}{% endif %}
   {% else %}
+    {% if page.description == nil or page.description == "" %}
       {% capture page_title %}
-          {%if page.slug == 'category' %}Category: {% endif %}
-          {%if page.slug == 'tag' %}Tag: {% endif %} {{ page.title }} | {{ site.title_left }}{{ site.title_right }}
+        {{ page.title }}
       {% endcapture %}
+    {% else %}
+      {% capture page_title %}
+        {{ page.title }} | {{ page.description }}
+      {% endcapture %}
+    {% endif %}
   {% endif %}
   {% capture page_title %}
-      {{ page_title | strip | rstrip | lstrip | escape | strip_newlines }}
+      {{ page_title | strip | escape | strip_newlines }}
   {% endcapture %}
 
   <title>{{ page_title }}</title>
@@ -44,7 +49,7 @@
   {% endcapture %}
 
   {% capture page_description %}
-      {{ page_description | strip | rstrip | lstrip | escape | strip_newlines }}
+      {{ page_description | strip | escape | strip_newlines }}
   {% endcapture %}
 
   <meta name="description" content="{{ page_description }}">

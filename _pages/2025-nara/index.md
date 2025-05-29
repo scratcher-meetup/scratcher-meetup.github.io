@@ -6,10 +6,16 @@ permalink: /2025/nara/
 cover: "/assets/images/OGP/scratch-day-in-nara.png"
 ---
 ![](/assets/images/OGP/scratch-day-in-nara.png){:style="width:600px; height:auto;"}
- 
-Scratchの誕生日をお祝いするイベントです。Scratchが始まったのは5月15日ですが、準備の都合などで6月に開催します。
 
-このイベントは、Scratchで作ったプロジェクトの発表や展示をを通じて新しい仲間とつながる、プログラミングの楽しさを知ることができる場です。Scratchが初めての人、ベテランScratcher、子どもから大人までどなたも大歓迎。発表と展示を見るだけの参加でも構いませんので、お気軽にご参加ください。
+Scratchの誕生日をお祝いするイベントです。Scratchが始まったのは5月15日ですが、準備の都合などで6月に開催します。  
+Scratchで作ったプロジェクトの発表や展示をを通じて新しい仲間とつながる、プログラミングの楽しさを知ることができる場でもあります。Scratchが初めての人、ベテランScratcher、子どもから大人までどなたも大歓迎。発表と展示を見るだけの参加でも構いませんので、お気軽にご参加ください。
+
+## 参加申込
+会場準備の都合で、参加人数を把握したいので、以下のリンク先から事前に参加申込をお願いします。
+
+[Scratch Day 2025 in Nara参加申込はこちら](https://scratch-day.connpass.com/event/356628/){:target="_blank"}
+
+## 開催概要
 
 - 日時：2025年6月15日（日）13:00〜16:30（開場12:30）
 - 場所：[奈良先端科学技術大学院大学](https://www.naist.jp/){:target="_blank"}  
@@ -28,11 +34,6 @@ Scratchの誕生日をお祝いするイベントです。Scratchが始まった
   - 企画・運営：CoderDojo 奈良 / 生駒
 - ハッシュタグ: #SD2025Nara
 - お問い合わせ： [nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)までご連絡ください。
-
-## 参加申込
-会場準備の都合で、参加人数を把握したいので、以下のリンク先から事前に参加申込をお願いします。
-
-[Scratch Day 2025 in Nara参加申込はこちら](https://scratch-day.connpass.com/event/356628/){:target="_blank"}
 
 ## タイムテーブル
 以下の内容で予定しています（タイムテーブルは変更となる場合があります）。

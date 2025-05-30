@@ -32,7 +32,7 @@ Scratchで作ったプロジェクトの発表や展示をを通じて新しい�
 - 協力
   - 会場提供：奈良先端科学技術大学院大学
   - 企画・運営：CoderDojo 奈良 / 生駒, まちライブラリー＠縁側ベース
-  - ILLUMMEワークショップ：野呂翔人（SHOOT）
+  - 光×プログラミングワークショップ：野呂翔人（SHOOT）
 - ハッシュタグ: #SD2025Nara
 - お問い合わせ： [scratch-day@crssrds.jp](mailto:scratch-day@crssrds.jp)までご連絡ください。
 
@@ -88,8 +88,8 @@ Show & Tell（ショー＆テル）は自分の作品を見せながらみんな
 
 ### ワークショップ
 
-#### ILLUMMEワークショップ
-ILLUMMEというプログラミングできる灯りを使ったワークショップを実施します。ILLUMMEを使ったワークショップの様子については、以下の動画をご覧ください（当日実施するワークショップの内容とは異なる場合があります）。
+#### 光×プログラミングワークショップ
+プログラミングできる灯りを使ったワークショップを実施します。光×プログラミングワークショップの様子については、以下の動画をご覧ください（当日実施するワークショップの内容とは異なる場合があります）。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5vMm460Rv5s?si=n35fDPcVatFWNfcR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

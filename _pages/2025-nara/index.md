@@ -32,8 +32,9 @@ Scratchで作ったプロジェクトの発表や展示をを通じて新しい�
 - 協力
   - 会場提供：奈良先端科学技術大学院大学
   - 企画・運営：CoderDojo 奈良 / 生駒
+  - ILLUMMEワークショップ：野呂翔人（SHOOT）
 - ハッシュタグ: #SD2025Nara
-- お問い合わせ： [nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)までご連絡ください。
+- お問い合わせ： [scratch-day@crssrds.jp](mailto:scratch-day@crssrds.jp)までご連絡ください。
 
 ## タイムテーブル
 以下の内容で予定しています（タイムテーブルは変更となる場合があります）。

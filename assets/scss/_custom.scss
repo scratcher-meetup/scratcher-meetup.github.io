@@ -31,3 +31,49 @@ h2 {
   margin-top: 2rem;
   color: #4472C6;
 }
+
+.main-visual {
+  // max-width: 770px;
+  width: 100%;
+  height: auto;  
+}
+
+#event {
+  .page.container {
+    padding: 0 1rem 1rem 1rem;
+  }
+}
+
+.navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin: 1rem 0;
+  border-bottom: 1px solid #ddd;
+  li {
+    list-style-type: none;
+    margin-right: 3rem;
+    :last-child {
+      margin-right: 0;
+    }
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .container {
+    width: 90%
+  }
+  .navigation {
+    flex-direction: column;
+    li {
+      margin-right: 0;
+      margin-bottom: 0.5rem;
+    }
+  }
+  #event {
+    .page.container {
+      padding: 0;
+    }
+  }
+}

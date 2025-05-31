@@ -5,6 +5,7 @@ permalink: /2025/nara/exhibition/
 cover: "/assets/images/OGP/scratch-day-in-nara.png"
 main-visual: "/assets/images/main/scratch-day-in-nara.png"
 layout: event
+event: nara2025
 navi:
   - title: "開催概要"
     url: /2025/nara/

@@ -10,7 +10,6 @@ navi:
     url: /2025/nara/
   - title: "参加申込"
     url: /2025/nara/entry/
-    target: "_blank"
   - title: "Show&Tell"
     url: /2025/nara/show-tell/
   - title: "作品展示＆交流"

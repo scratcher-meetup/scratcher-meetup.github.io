@@ -1,23 +1,10 @@
 ---
-title: Scratch Day 2025 in Nara
-subtitle: Show&Tell
+title: Show&Tell
 permalink: /2025/nara/show-tell/
 cover: "/assets/images/OGP/scratch-day-in-nara.png"
 main-visual: "/assets/images/main/scratch-day-in-nara.png"
 layout: event
-navi:
-  - title: "開催概要"
-    url: /2025/nara/
-  - title: "参加申込"
-    url: /2025/nara/entry/
-  - title: "Show&Tell"
-    url: /2025/nara/show-tell/
-  - title: "作品展示＆交流"
-    url: /2025/nara/exhibition/
-  - title: "ワークショップ"
-    url: /2025/nara/workshop/
-  - title: "会場への行き方"
-    url: /2025/nara/access/
+event: nara2025
 ---
 
 Show & Tell（ショー＆テル）は自分の作品を見せながらみんなの前で紹介するイベントです。ご自慢の作品を持ってきてみんなに紹介してくださいね。

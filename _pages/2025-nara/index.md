@@ -1,25 +1,11 @@
 ---
-title: Scratch Day 2025 in Nara
-subtitle: 開催概要
+title: 開催概要
 description: "奈良でScratch Dayやります"
 permalink: /2025/nara/
 cover: "/assets/images/OGP/scratch-day-in-nara.png"
 main-visual: "/assets/images/main/scratch-day-in-nara.png"
 layout: event
 event: nara2025
-navi:
-  - title: "開催概要"
-    url: /2025/nara/
-  - title: "参加申込"
-    url: /2025/nara/entry/
-  - title: "Show&Tell"
-    url: /2025/nara/show-tell/
-  - title: "作品展示＆交流"
-    url: /2025/nara/exhibition/
-  - title: "ワークショップ"
-    url: /2025/nara/workshop/
-  - title: "会場への行き方"
-    url: /2025/nara/access/
 ---
 Scratchの誕生日をお祝いするイベントです。Scratchが始まったのは5月15日ですが、準備の都合などで6月に開催します。  
 Scratchで作ったプロジェクトの発表や展示をを通じて新しい仲間とつながる、プログラミングの楽しさを知ることができる場でもあります。Scratchが初めての人、ベテランScratcher、子どもから大人までどなたも大歓迎。発表と展示を見るだけの参加でも構いませんので、お気軽にご参加ください。

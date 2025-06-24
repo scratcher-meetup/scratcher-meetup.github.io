@@ -1,5 +1,5 @@
 ---
-title: 開催レポート
+title: レポート
 permalink: /2025/nara/report/
 cover: "/assets/images/OGP/scratch-day-in-nara.png"
 main-visual: "/assets/images/main/scratch-day-in-nara.png"

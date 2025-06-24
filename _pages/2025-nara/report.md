@@ -64,6 +64,15 @@ Show&Tellの後は、展示タイム。
 ![](/assets/images/2025-nara/report/17.jpg){:style="width: 600px;"}
 ![](/assets/images/2025-nara/report/18.jpg){:style="width: 600px;"}
 
+## みんなのScratch Cat
+参加者の方が書いてくださったのをきっかけに、みんなのScratch Catが集まりました。
+
+![](/assets/images/2025-nara/report/cats.jpg){:style="width: 600px;"}
+
+お祝いメッセージもいただきました
+![](/assets/images/2025-nara/report/message.jpg){:style="width: 600px;"}
+
+
 ## 記念撮影
 最後にみんなで記念撮影、来年もまた会いましょう。
 

@@ -67,9 +67,10 @@ Show&Tellの後は、展示タイム。
 ## みんなのScratch Cat
 参加者の方が書いてくださったのをきっかけに、みんなのScratch Catが集まりました。
 
-![](/assets/images/2025-nara/report/cats.jpg){:style="width: 600px;"}
+[![](/assets/images/2025-nara/report/cats.jpg){:style="width: 600px;"}]((/assets/images/2025-nara/report/cats.jpg))
 
 お祝いメッセージもいただきました
+
 ![](/assets/images/2025-nara/report/message.jpg){:style="width: 600px;"}
 
 

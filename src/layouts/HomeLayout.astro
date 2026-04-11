@@ -5,16 +5,14 @@ interface Props {
   frontmatter: {
     title: string;
     description?: string;
-    ogImage?: string;
   };
 }
 
 const { frontmatter } = Astro.props;
 ---
-<BaseLayout title={frontmatter.title} description={frontmatter.description} ogImage={frontmatter.ogImage} layoutId="page">
+<BaseLayout title={frontmatter.title} description={frontmatter.description} isHome={true} layoutId="home">
   <article class="page container">
     <div class="page-content">
-      <h1 class="page-title">{frontmatter.title}</h1>
       <slot />
     </div>
   </article>

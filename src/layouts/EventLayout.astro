@@ -1,20 +1,21 @@
 ---
 import BaseLayout from './BaseLayout.astro';
-import { nara2025 } from '../data/nara2025';
+import { events } from '../data/events';
 
 interface Props {
-  title: string;
-  description?: string;
-  ogImage?: string;
-  mainVisual?: string;
-  event: 'nara2025';
+  frontmatter: {
+    title: string;
+    event: string;
+    description?: string;
+  };
 }
 
-const { title, description, ogImage, mainVisual, event } = Astro.props;
+const { frontmatter } = Astro.props;
+const { title, event, description } = frontmatter;
 
-const eventData = event === 'nara2025' ? nara2025 : null;
-const resolvedMainVisual = mainVisual ?? eventData?.mainVisual;
-const resolvedOgImage = ogImage ?? eventData?.cover;
+const eventData = events[event] ?? null;
+const resolvedMainVisual = eventData?.mainVisual;
+const resolvedOgImage = eventData?.cover;
 ---
 <BaseLayout
   title={title}

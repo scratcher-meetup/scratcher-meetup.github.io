@@ -8,8 +8,8 @@ export type EventData = {
 export const events: Record<string, EventData> = {
   nara2026: {
     title: "Scratch Day 2026 in Nara",
-    cover: "/assets/images/OGP/scratch-day-in-nara.png",
-    mainVisual: "/assets/images/main/scratch-day-in-nara.png",
+    cover: "/images/OGP/scratch-day-in-nara.png",
+    mainVisual: "/images/main/scratch-day-in-nara.png",
     navi: [
       { title: "開催概要", url: "/2026/nara/" },
       // { title: '参加申込', url: '/2026/nara/entry/' },
@@ -23,8 +23,8 @@ export const events: Record<string, EventData> = {
   },
   nara2025: {
     title: "Scratch Day 2025 in Nara",
-    cover: "/assets/images/OGP/scratch-day-in-nara.png",
-    mainVisual: "/assets/images/main/scratch-day-in-nara.png",
+    cover: "/images/OGP/scratch-day-in-nara.png",
+    mainVisual: "/images/main/scratch-day-in-nara.png",
     navi: [
       { title: "開催概要", url: "/2025/nara/" },
       { title: "参加申込", url: "/2025/nara/entry/" },

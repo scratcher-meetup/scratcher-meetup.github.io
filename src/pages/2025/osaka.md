@@ -3,7 +3,7 @@ layout: ../../layouts/PageLayout.astro
 title: Scratcher Meetup Osaka 2025
 ---
 
-![Scratcher Meetup Osaka 2025](/assets/images/OGP/scratcher-meetup.OGP.png)
+![Scratcher Meetup Osaka 2025](/images/OGP/scratcher-meetup.OGP.png)
 
 Scratchが大好きなみんなが集まる「**Scratcher Meetup**」を開催します！
 このイベントは、Scratchで作ったプロジェクトの発表や展示をを通じて新しい仲間とつながることができる場です。Scratchが初めての人も、プロのScratcherも大歓迎！
@@ -64,4 +64,4 @@ Scratchが大好きなみんなが集まる「**Scratcher Meetup**」を開催�
 
 会場は会社のオフィスの一部をお借りします。こんな感じのスペースです。
 
-![会場の様子](/assets/images/ashibinaa.jpg)
+![会場の様子](/images/ashibinaa.jpg)

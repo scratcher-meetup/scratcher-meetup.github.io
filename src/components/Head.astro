@@ -18,7 +18,7 @@ const pageTitle = isHome
   : title;
 
 const pageDescription = description ?? SITE_DESCRIPTION;
-const defaultOgImage = `${SITE_URL}/assets/images/OGP/default.png`;
+const defaultOgImage = `${SITE_URL}/images/OGP/default.png`;
 const ogImageUrl = ogImage ? `${SITE_URL}${ogImage}` : defaultOgImage;
 const canonicalUrl = new URL(Astro.url.pathname, SITE_URL).href;
 ---
@@ -38,12 +38,12 @@ const canonicalUrl = new URL(Astro.url.pathname, SITE_URL).href;
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 <!-- Favicon -->
-<link rel="manifest" href="/assets/images/favicon/site.webmanifest" />
-<link rel="icon" href="/assets/images/favicon/favicon.ico" sizes="any" />
-<link rel="icon" href="/assets/images/favicon/icon.svg" type="image/svg+xml" />
-<link rel="apple-touch-icon" href="/assets/images/favicon/apple-touch-icon.png" />
-<link rel="icon" type="image/png" sizes="192x192" href="/assets/images/favicon/icon-192.png" />
-<link rel="icon" type="image/png" sizes="512x512" href="/assets/images/favicon/icon-512.png" />
+<link rel="manifest" href="/images/favicon/site.webmanifest" />
+<link rel="icon" href="/images/favicon/favicon.ico" sizes="any" />
+<link rel="icon" href="/images/favicon/icon.svg" type="image/svg+xml" />
+<link rel="apple-touch-icon" href="/images/favicon/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="192x192" href="/images/favicon/icon-192.png" />
+<link rel="icon" type="image/png" sizes="512x512" href="/images/favicon/icon-512.png" />
 <meta name="msapplication-TileColor" content="#ffffff" />
 <meta name="theme-color" content="#ffffff" />
 

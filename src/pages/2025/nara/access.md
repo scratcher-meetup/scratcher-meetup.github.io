@@ -11,7 +11,7 @@ event: nara2025
 
 以下の図を参考の上、お越しください。建物内には案内を設置しています。
 
-![構内案内図](/assets/images/2025-nara/NAIST.png)
+![構内案内図](/images/2025-nara/NAIST.png)
 
 ### 車でお越しの方
 

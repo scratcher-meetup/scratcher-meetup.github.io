@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l /Users/kwaka1208/git/01_web/scratcher-meetup.github.io/assets/scss/*.scss /Users/kwaka1208/git/01_web/scratcher-meetup.github.io/assets/scss/base/*.scss)",
+      "Bash(npm --version)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(mkdir -p /Users/kwaka1208/git/01_web/scratcher-meetup.github.io/public/assets/images)",
+      "Bash(mv 2025-nara ashibinaa.jpg favicon main OGP images/)"
+    ]
+  }
+}

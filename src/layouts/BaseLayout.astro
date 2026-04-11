@@ -1,0 +1,29 @@
+---
+import Head from '../components/Head.astro';
+import Nav from '../components/Nav.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.scss';
+
+interface Props {
+  title: string;
+  description?: string;
+  ogImage?: string;
+  isHome?: boolean;
+  layoutId?: string;
+}
+
+const { title, description, ogImage, isHome = false, layoutId } = Astro.props;
+---
+<!doctype html>
+<html lang="ja">
+  <head>
+    <Head title={title} description={description} ogImage={ogImage} isHome={isHome} />
+  </head>
+  <body>
+    <main id={layoutId} class="wrapper">
+      <Nav />
+      <slot />
+      <Footer />
+    </main>
+  </body>
+</html>

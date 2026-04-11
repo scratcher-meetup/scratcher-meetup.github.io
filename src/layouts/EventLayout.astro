@@ -1,0 +1,46 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import { nara2025 } from '../data/nara2025';
+
+interface Props {
+  title: string;
+  description?: string;
+  ogImage?: string;
+  mainVisual?: string;
+  event: 'nara2025';
+}
+
+const { title, description, ogImage, mainVisual, event } = Astro.props;
+
+const eventData = event === 'nara2025' ? nara2025 : null;
+const resolvedMainVisual = mainVisual ?? eventData?.mainVisual;
+const resolvedOgImage = ogImage ?? eventData?.cover;
+---
+<BaseLayout
+  title={title}
+  description={description}
+  ogImage={resolvedOgImage}
+  layoutId="event"
+>
+  <article class="page container">
+    <header class="page-header">
+      {resolvedMainVisual && (
+        <img src={resolvedMainVisual} alt={eventData?.title ?? title} class="main-visual" />
+      )}
+      <h1 class="page-title">{eventData?.title ?? title}</h1>
+      {eventData && (
+        <ul class="navigation">
+          {eventData.navi.map((item) => (
+            <li>
+              <a href={item.url}>{item.title}</a>
+            </li>
+          ))}
+        </ul>
+      )}
+    </header>
+    <div class="page-content">
+      <h2>{title}</h2>
+      <slot />
+    </div>
+  </article>
+</BaseLayout>

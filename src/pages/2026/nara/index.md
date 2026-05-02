@@ -13,7 +13,8 @@ Scratchで作ったプロジェクトの発表や展示を通じて新しい仲�
   奈良県生駒市高山町8916番地の5（[Google Mapsはこちら](https://maps.app.goo.gl/77kwNe3gukZDzzPMA)）
 - 対象: 全年齢の子ども（Children Of All Ages）が対象です（未就学児、小学生から大人のScratcherも大歓迎！）
 - 参加費: 無料
-- 参加申込：[こちらからお願いします](https://scratch-day.connpass.com/event/390630/)
+- 参加申込：[こちらからお願いします](https://scratch-day.connpass.com/event/390630/)  
+  [作品展示・Show&Tellに参加の方はこちら](https://forms.gle/4A7BV2wSUHvemgrc7)も合わせてお願いします
 - 主催：Scratch Day 2026 in Nara実行委員会
 - お問い合わせ： [scratch-day@crssrds.jp](mailto:scratch-day@crssrds.jp)までご連絡ください。
 

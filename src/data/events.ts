@@ -12,13 +12,12 @@ export const events: Record<string, EventData> = {
     mainVisual: "/images/main/scratch-day-in-nara.png",
     navi: [
       { title: "開催概要", url: "/2026/nara/" },
-      // { title: '参加申込', url: '/2026/nara/entry/' },
-      // { title: 'Show&Tell', url: '/2026/nara/show-tell/' },
-      // { title: '展示', url: '/2026/nara/exhibition/' },
+      { title: "Show&Tell", url: "/2026/nara/show-tell/" },
+      { title: "展示", url: "/2026/nara/exhibition/" },
       // { title: 'ワークショップ', url: '/2026/nara/workshop/' },
       { title: "会場アクセス", url: "/2026/nara/access/" },
-      // { title: '注意事項', url: '/2026/nara/notice/' },
-      // { title: 'レポート', url: '/2026/nara/report/' },
+      { title: "注意事項", url: "/2026/nara/notice/" },
+      { title: "レポート", url: "/2026/nara/report/" },
     ],
   },
   nara2025: {
@@ -27,7 +26,6 @@ export const events: Record<string, EventData> = {
     mainVisual: "/images/main/scratch-day-in-nara.png",
     navi: [
       { title: "開催概要", url: "/2025/nara/" },
-      { title: "参加申込", url: "/2025/nara/entry/" },
       { title: "Show&Tell", url: "/2025/nara/show-tell/" },
       { title: "展示", url: "/2025/nara/exhibition/" },
       { title: "ワークショップ", url: "/2025/nara/workshop/" },

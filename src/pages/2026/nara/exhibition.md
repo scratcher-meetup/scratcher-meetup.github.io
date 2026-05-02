@@ -1,10 +1,16 @@
 ---
 layout: ../../../layouts/EventLayout.astro
-title: 作品展示＆交流
+title: 作品展示
 event: nara2026
 ---
 
 会場に用意した机にそれぞれのブースを作り、Scratchの作品を展示します。展示スペースでは、他の参加者と交流できます。
+
+### 参加申し込み
+
+作品展示への参加は事前申し込みが必要です。以下のリンク先よりお申し込みください。
+
+[Scratch Day 2026 in Nara 作品展示・Show&Tell参加申し込み](https://forms.gle/4A7BV2wSUHvemgrc7)
 
 ### 応募条件
 

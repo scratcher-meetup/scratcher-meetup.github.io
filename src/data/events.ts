@@ -14,7 +14,7 @@ export const events: Record<string, EventData> = {
       { title: "開催概要", url: "/2026/nara/" },
       { title: "Show&Tell", url: "/2026/nara/show-tell/" },
       { title: "展示", url: "/2026/nara/exhibition/" },
-      // { title: 'ワークショップ', url: '/2026/nara/workshop/' },
+      { title: "ワークショップ", url: "/2026/nara/workshop/" },
       { title: "会場アクセス", url: "/2026/nara/access/" },
       { title: "注意事項", url: "/2026/nara/notice/" },
       { title: "レポート", url: "/2026/nara/report/" },
